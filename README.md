@@ -1,0 +1,2 @@
+# DjangoCRM
+its a CRM
