@@ -1,2 +1,2 @@
-# DjangoCRM
-its a CRM
+# codefyncrm
+its a Pyhton Based CRM
